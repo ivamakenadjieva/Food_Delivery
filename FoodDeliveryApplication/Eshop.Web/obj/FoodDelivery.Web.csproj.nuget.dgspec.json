@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\FoodDelivery.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj",
+        "projectName": "FoodDelivery.Domain",
+        "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj",
+        "projectName": "FoodDelivery.Repository",
+        "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\FoodDelivery.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\FoodDelivery.Service.csproj",
+        "projectName": "FoodDelivery.Service",
+        "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\FoodDelivery.Service.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj"
+              },
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\FoodDelivery.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\FoodDelivery.Web.csproj",
+        "projectName": "FoodDelivery.Web",
+        "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\FoodDelivery.Web.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Domain\\FoodDelivery.Domain.csproj"
+              },
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\FoodDelivery.Repository.csproj"
+              },
+              "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\FoodDelivery.Service.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Service\\FoodDelivery.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

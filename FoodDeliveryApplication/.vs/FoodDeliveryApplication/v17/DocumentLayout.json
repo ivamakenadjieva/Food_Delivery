@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Items.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\items\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\items\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.web\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is proba\\fooddeliveryapplication\\eshop.repository\\implementation\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-19T18:14:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-19T18:14:24.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Items [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Items.sql",
+              "ToolTip": "dbo.Items [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-19T18:12:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Restaurants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FoodAppDeliveryDB/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "dbo.Restaurants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-19T18:12:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T18:09:41.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\ShoppingCarts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\ShoppingCarts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\ShoppingCarts\\Details.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\ShoppingCarts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T18:08:16.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:55:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:55:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:55:03.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:53:49.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Items\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Items\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Items\\AddToCart.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Items\\AddToCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:53:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Restaurants\\Details.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Restaurants\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Restaurants\\Details.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Restaurants\\Details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADUAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T19:56:17.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\Eshop.Web\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Items\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T19:52:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:52:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:52:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:52:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Is proba\\FoodDeliveryApplication\\EShop.Repository\\Implementation\\RestaurantRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\RestaurantRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:51:46.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

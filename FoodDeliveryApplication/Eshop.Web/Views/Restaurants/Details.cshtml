@@ -1,0 +1,68 @@
+﻿@model EShop.Domain.Domain.Restaurant
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>@Model.Name</h4>
+    <hr />
+</div>
+
+<table class="table">
+    <thead>
+    <th>#</th>
+    <th>Item Name</th>
+    <th>Item Description</th>
+    <th>Price</th>
+    <th>Rating</th>
+    <th>Actions</th>
+    </thead>
+    <tbody>
+        @{
+            var i = 0;
+            foreach (var item in Model.Items)
+            {
+
+
+
+                <tr>
+                    <td>
+                        @{
+                            i = i + 1;
+                            <p>@i</p>
+                        }
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Item.ItemName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Item.ItemDescription)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Item.Rating)
+                    </td>
+                    <td>
+                    <a asp-controller="Items" asp-action="AddToCart" asp-route-id="@item.Item.Id" class="btn btn-success">Add to Cart</a>
+                    <a asp-controller="Items" asp-action="Edit" asp-route-id="@item.Item.Id" class="btn btn-info">Edit</a>
+                    <a asp-controller="Items" asp-action="Delete" asp-route-id="@item.Item.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+
+            }
+        }
+    </tbody>
+</table>
+
+<div>
+    
+    
+    <a asp-action="Index">Back to List</a>
+</div>

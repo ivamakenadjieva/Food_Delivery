@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\productinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\productinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390AA24-DFF6-45D1-A928-420DBD85D3AB}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\Eshop.Web.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\Eshop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\Eshop.Web.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD6E860-629E-41A0-A1E4-D9A81AD9B622}|Eshop.Web\\Eshop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\lenovo\\downloads\\is1_2024-main\\is1_2024-main\\eshopapplication\\eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E5645-B4F3-48ED-B515-C91E001528AB}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ProductInOrder.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\ProductInOrder.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ProductInOrder.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\ProductInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:33:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ProductInShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\ProductInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ProductInShoppingCart.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\ProductInShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:32:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\ShoppingCart.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:20.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:29:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Restaurant.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Restaurant.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Domain\\Domain\\Product.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:26:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\Eshop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Eshop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\Eshop.Web\\appsettings.json",
+              "RelativeToolTip": "Eshop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T16:17:52.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\Eshop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Eshop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\Eshop.Web\\Program.cs",
+              "RelativeToolTip": "Eshop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:17:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\IS1_2024-main\\IS1_2024-main\\EShopApplication\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EShop.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:15:19.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\bin\Debug\net8.0\FoodDelivery.Repository.deps.json
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDeli.27146943.Up2Date
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\refint\FoodDelivery.Repository.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Repository\obj\Debug\net8.0\ref\FoodDelivery.Repository.dll

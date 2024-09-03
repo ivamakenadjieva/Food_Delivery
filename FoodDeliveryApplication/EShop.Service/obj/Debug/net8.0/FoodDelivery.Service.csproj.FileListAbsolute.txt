@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Service.deps.json
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Service.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Service.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Repository.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\bin\Debug\net8.0\FoodDelivery.Repository.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDeli.08BEB464.Up2Date
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\refint\FoodDelivery.Service.dll
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\FoodDelivery.Service.pdb
+C:\Users\Lenovo\Downloads\Is proba\FoodDeliveryApplication\EShop.Service\obj\Debug\net8.0\ref\FoodDelivery.Service.dll
